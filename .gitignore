@@ -1,0 +1,36 @@
+# KiCad project files to ignore
+*.bak
+*.kicad_prl
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.tmp
+
+# Gerber and fabrication outputs
+*.gbr
+*.gtl
+*.gbl
+*.gts
+*.gbs
+*.gto
+*.gbo
+*.drl
+*.zip
+
+# 3D model outputs
+*.stl
+*.wrl
+
+# Simulation or export files
+*.xml
+*.csv
+*.bom
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python or script cache
+*.pyc
+
+# Logs
+*.log
